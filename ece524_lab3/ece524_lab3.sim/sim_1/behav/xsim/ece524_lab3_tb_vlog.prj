@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ece524_lab3.srcs/sources_1/new/main.v" \
+"../../../../ece524_lab3.srcs/sources_1/new/memory_258x8.v" \
+"../../../../ece524_lab3.srcs/sim_1/new/ece524_lab3_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

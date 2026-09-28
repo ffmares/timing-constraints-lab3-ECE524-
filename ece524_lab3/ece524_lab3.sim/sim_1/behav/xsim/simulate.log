@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+PASS: address 00 -> data 2b
+PASS: address 00 -> data 01
+PASS: address 01 -> data 02
+PASS: address 02 -> data 03
+PASS: address 00 -> data 01
+PASS: address 01 -> data 02
+All ECE524 Lab 3 tests passed.
+$finish called at time : 370 ns : File "C:/Users/feran/Documents/Vivado_Projects/ece524_lab3/ece524_lab3.srcs/sim_1/new/ece524_lab3_tb.v" Line 79

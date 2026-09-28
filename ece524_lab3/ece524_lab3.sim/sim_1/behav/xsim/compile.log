@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/feran/Documents/Vivado_Projects/ece524_lab3/ece524_lab3.srcs/sources_1/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ece524_lab3_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/feran/Documents/Vivado_Projects/ece524_lab3/ece524_lab3.srcs/sources_1/new/memory_258x8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memory_256x8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/feran/Documents/Vivado_Projects/ece524_lab3/ece524_lab3.srcs/sim_1/new/ece524_lab3_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ece524_lab3_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/feran/Documents/Vivado_Projects/ece524_lab3/ece524_lab3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

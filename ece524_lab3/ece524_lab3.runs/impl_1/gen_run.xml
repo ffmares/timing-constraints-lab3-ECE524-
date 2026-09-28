@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg484-3" LaunchTime="1790470730">
+  <File Type="ROUTE-PWR" Name="ece524_lab3_top_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="ece524_lab3_top.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="ece524_lab3_top_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="ece524_lab3_top_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="ece524_lab3_top_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="ece524_lab3_top.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="ece524_lab3_top_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="ece524_lab3_top_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="ece524_lab3_top_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="ece524_lab3_top_opt.dcp"/>
+  <File Type="OPT-DRC" Name="ece524_lab3_top_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="ece524_lab3_top.hwdef"/>
+  <File Type="PWROPT-DCP" Name="ece524_lab3_top_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="ece524_lab3_top_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="ece524_lab3_top_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="ece524_lab3_top_placed.dcp"/>
+  <File Type="PLACE-IO" Name="ece524_lab3_top_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="ece524_lab3_top_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="ece524_lab3_top_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="ece524_lab3_top_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="ece524_lab3_top_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="ece524_lab3_top_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="ece524_lab3_top_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="ece524_lab3_top.bin"/>
+  <File Type="PLACE-TIMING" Name="ece524_lab3_top_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="ece524_lab3_top_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="ece524_lab3_top_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="ece524_lab3_top_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="ece524_lab3_top.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="ece524_lab3_top_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="ece524_lab3_top_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="ece524_lab3_top_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="ece524_lab3_top.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="ece524_lab3_top_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="ece524_lab3_top_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="ece524_lab3_top_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="ece524_lab3_top_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="ece524_lab3_top_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="ece524_lab3_top_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="ece524_lab3_top_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="ece524_lab3_top_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="ece524_lab3_top_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="ece524_lab3_top_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="ece524_lab3_top_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="ece524_lab3_top_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="ece524_lab3_top_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="ece524_lab3_top_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="ece524_lab3_top_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="ece524_lab3_top_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="ece524_lab3_top_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="ece524_lab3_top_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="ece524_lab3_top_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="ece524_lab3_top_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="ece524_lab3_top_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="ece524_lab3_top_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="ece524_lab3_top_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="ece524_lab3_top_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="ece524_lab3_top_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="ece524_lab3_top_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="ece524_lab3_top_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="ece524_lab3_top.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="ece524_lab3_top_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="ece524_lab3_top_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="ece524_lab3_top.nky"/>
+  <File Type="BITSTR-BMM" Name="ece524_lab3_top_bd.bmm"/>
+  <File Type="PDI-FILE" Name="ece524_lab3_top.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="ece524_lab3_top_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="ece524_lab3_top_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="ece524_lab3_top.rcfi"/>
+  <File Type="CFI_FILE" Name="ece524_lab3_top.cfi"/>
+  <File Type="RNPI_FILE" Name="ece524_lab3_top.rnpi"/>
+  <File Type="NPI_FILE" Name="ece524_lab3_top.npi"/>
+  <File Type="RBD_FILE" Name="ece524_lab3_top.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="ece524_lab3_top.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="ece524_lab3_top.sysdef"/>
+  <File Type="BG-BGN" Name="ece524_lab3_top.bgn"/>
+  <File Type="BG-DRC" Name="ece524_lab3_top.drc"/>
+  <File Type="RDI-RDI" Name="ece524_lab3_top.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="ece524_lab3_top_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="ece524_lab3_top_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/memory_258x8.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/main.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/design_1/design_1.bd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="ece524_lab3_top"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/Zedboard-master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/ece524_lab3_top.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
